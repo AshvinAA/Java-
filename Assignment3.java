@@ -1,10 +1,10 @@
-package myClasses.prevAssignments;
+
 
 import java.util.ArrayList;
 
 public class Assignment3 {
     public static void main(String[] args) {
-
+        //prompts are not written since it is already provided in the assignment
     }
 }
 
